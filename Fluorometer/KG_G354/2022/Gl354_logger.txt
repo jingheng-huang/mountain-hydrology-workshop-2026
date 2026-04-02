@@ -1,0 +1,7 @@
+214 110 21 diver in steel tube
+214 110 22 baro/air pressure
+
+logger time GMT+02:00
+
+All old divers and their data lost, only the barometric pressure logger retrieved.
+
